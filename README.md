@@ -54,6 +54,11 @@
 <!--  2d history skills 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=galaxybomb23&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/galaxybomb23/galaxybomb23/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/galaxybomb23/galaxybomb23/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
 
 **📫 How to Reach me:**
 <p align="left">
@@ -83,11 +88,6 @@ width="30%">
 
 </p>
 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/galaxybomb23/galaxybomb23/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/galaxybomb23/galaxybomb23/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
