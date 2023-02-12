@@ -2,12 +2,12 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/galaxybomb23/ProfileMain"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/galaxybomb23/galaxybomb23"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/galaxybomb23/ProfileMain/graphs/contributors"><img src="https://img.shields.io/github/contributors/galaxybomb23/ProfileMain?color=blue"></a>
-    <a href="https://github.com/galaxybomb23/ProfileMain/stargazers"><img src="https://img.shields.io/github/stars/galaxybomb23/ProfileMain.svg?logo=github"></a>
-    <a href="https://github.com/galaxybomb23/ProfileMain/network/members"><img src="https://img.shields.io/github/forks/galaxybomb23/ProfileMain.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=galaxybomb23.ProfileMain%22%20alt=%22visitors%22"/>   
+    <a href="https://github.com/galaxybomb23/galaxybomb23/graphs/contributors"><img src="https://img.shields.io/github/contributors/galaxybomb23/galaxybomb23?color=blue"></a>
+    <a href="https://github.com/galaxybomb23/galaxybomb23/stargazers"><img src="https://img.shields.io/github/stars/galaxybomb23/galaxybomb23.svg?logo=github"></a>
+    <a href="https://github.com/galaxybomb23/galaxybomb23/network/members"><img src="https://img.shields.io/github/forks/galaxybomb23/galaxybomb23.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=galaxybomb23.galaxybomb23%22%20alt=%22visitors%22" alt = "Visitors"/>   
 </p>
 
 <!--   my-header-img -->
