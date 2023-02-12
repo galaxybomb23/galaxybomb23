@@ -13,7 +13,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: galaxybomb23
-          config_timezone: US/Chicago
+          config_timezone: America/Chicago
 
           committer_message: "chore: update metrics"
           template: classic
