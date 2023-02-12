@@ -37,7 +37,7 @@
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![galaxybomb's github stats](https://github-readme-stats.vercel.app/api?username=galaxybomb23&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxybomb23&theme=radical&layout=compact) |
+| ![galaxybomb's github stats](https://github-readme-stats.vercel.app/api?username=galaxybomb23&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxybomb23&theme=radical&layout=compact&count_private=true) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=galaxybomb23"></img>
 
