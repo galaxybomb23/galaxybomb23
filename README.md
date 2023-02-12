@@ -34,32 +34,7 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 [![Galaxybomb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=galaxybomb23&theme=github-compact)](https://github.com/galaxybomb23/github-readme-activity-graph)
-
-<!--
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![galaxybomb's github stats](https://github-readme-stats.vercel.app/api?username=galaxybomb23&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxybomb23&theme=radical&layout=compact&count_private=true) |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=galaxybomb23"></img>
-
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake -->
-![](https://github.com/galaxybomb23/ProfileMain/blob/output/github-contribution-grid-snake.svg)
-
-<!--   skyline 
-<a href="https://skyline.github.com/galaxybomb23/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  2d history skills 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=galaxybomb23&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
--->
--->
-
-
-
-    
+  
     
 <!--                    COME BACK WHEN BETTER STATS TO ENABle
 </p>
