@@ -2,7 +2,7 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/galaxybomb23/galaxybomb23"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/galaxybomb23/galaxybomb23"><img src="https://github.com/galaxybomb23/galaxybomb23/actions/workflows/Metriics2.yml/badge.svg?branch=main"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/galaxybomb23/galaxybomb23/graphs/contributors"><img src="https://img.shields.io/github/contributors/galaxybomb23/galaxybomb23?color=blue"></a>
     <a href="https://github.com/galaxybomb23/galaxybomb23/stargazers"><img src="https://img.shields.io/github/stars/galaxybomb23/galaxybomb23.svg?logo=github"></a>
@@ -35,6 +35,7 @@
 ### 📈 GitHub Activity Graph:
 [![Galaxybomb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=galaxybomb23&theme=github-compact)](https://github.com/galaxybomb23/github-readme-activity-graph)
 
+<!--
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![galaxybomb's github stats](https://github-readme-stats.vercel.app/api?username=galaxybomb23&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxybomb23&theme=radical&layout=compact&count_private=true) |
@@ -54,13 +55,8 @@
 <!--  2d history skills 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=galaxybomb23&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
 -->
+-->
 
-<!-- snake animation-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/galaxybomb23/galaxybomb23/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/galaxybomb23/galaxybomb23/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
 
 
     
@@ -90,6 +86,13 @@ width="30%">
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics" width= "100%">
+</picture>
+
+<!-- snake animation-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/galaxybomb23/galaxybomb23/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/galaxybomb23/galaxybomb23/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
 </picture>
 
 
