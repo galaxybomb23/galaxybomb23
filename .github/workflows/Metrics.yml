@@ -37,8 +37,6 @@ jobs:
           plugin_achievements_threshold: C # (will show achievement tokens that are not yet unlocked)
           plugin_achievements_display: detailed  # detailed description of achievements tokens
           
-          plugin_calendar: yes # displays activity by year from current year onwards
-          plugin_calendar_limit: 4 # displays activity for 4  years
 
           plugin_habits: yes # daily and weekly activity
           plugin_habits_facts: yes # displays an analysis of your weekly activity
