@@ -42,7 +42,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![Galaxybomb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=galaxybomb23&theme=github-compact)](https://github.com/galaxybomb23/github-readme-activity-graph)
+[![Galaxybomb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=galaxybomb23&theme=github-compact)](https://github.com/galaxybomb23/github-readme-activity-graph)
   
     
 <!--                    COME BACK WHEN BETTER STATS TO ENABle
