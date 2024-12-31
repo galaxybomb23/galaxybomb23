@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Purdue Computer engineer focused on Sofware development and AI
+I am a full-stack Purdue computer engineer, from hardware design to high-level applications.
 
 
 ## 🌐 Socials:
